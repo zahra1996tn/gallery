@@ -45,6 +45,7 @@ export default {
   text-align: center;
 }
 .container{
+  padding:45px;
   position: relative;
   margin-top: 140px;
   z-index: 555;

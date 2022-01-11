@@ -38,8 +38,9 @@ body{
     float: right;
     margin: 10px 23px;
     padding: 32px 0;
-    height: 179px;
+    height: 191px;
     border: 1px solid rgb(218, 218, 218);
+    border-radius: 5px;
 }
 .img-head{
     margin: 10px;
@@ -51,6 +52,5 @@ i{
 a{
     display: block !important;
     margin-top: 15px;
-    margin-bottom: 10px !important;
 }
 </style>
