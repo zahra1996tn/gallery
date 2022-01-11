@@ -45,7 +45,6 @@ export default {
   text-align: center;
 }
 .container{
-  padding:45px;
   position: relative;
   margin-top: 140px;
   z-index: 555;
@@ -54,7 +53,7 @@ export default {
   width: 900px;
   text-align: center;
   /*shadow*/ 
-  border-radius: 50px;
+  border-radius: 15px;
   background: #f5f5f5;
   box-shadow: -2px 14px 30px #bebebe, 2px 2px 89px #ffffff;
 }
@@ -107,9 +106,12 @@ export default {
     .container img{
       width: 210px !important;
       height: 150px !important;
+      margin-top:-69px;
     }
     .img{
       margin-bottom:-28px !important;
+      height: 160px !important;
+      border: none !important;
     }
   }
 </style>
